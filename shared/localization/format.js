@@ -23,6 +23,7 @@ const TYPE = /** @type {const} */ ({
   plural: 6,
   pound: 7,
   tag: 8,
+  test: 9,
 });
 
 const moduleDir = getModuleDirectory(import.meta);
